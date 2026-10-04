@@ -62,7 +62,7 @@ More projects and repositories will be added as I progress.
 ---
 
 📊 GitHub Activity & Metrics
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=IDHAYANMICHAELRAJ&show_icons=true&theme=tokyonight&hide_border=true)
+
 ---
 
 📬 Connect With Me
